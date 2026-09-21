@@ -172,24 +172,4 @@ Positive
 
 ---
 
-## Use of AI Tools
 
-AI tools such as GitHub Copilot, Cursor AI, or ChatGPT may be used to support coding, debugging, and documentation.  
-Any relevant observations, such as hallucinations, incorrect suggestions, or debugging help, should be mentioned during the final presentation.
-
----
-
-## Final Presentation
-
-The final presentation will include:
-
-1. Project motivation
-2. Dataset description
-3. Methodology
-4. Baseline model
-5. Transformer-based model
-6. Results and evaluation
-7. Demo
-8. Limitations and future improvements
-9. Use of AI tools
-10. Conclusion
